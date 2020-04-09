@@ -41,7 +41,7 @@ Evaluating four diﬀerent ensemble machine learning algorithms :
   - Boosting Methods: AdaBoost (AB) and Gradient Boosting (GBM)  
   - Bagging Methods: Random Forests (RF) and Extra Trees (ET)  
   
-Tuning the Extra Trees to further lift the performance  
+  Tuning the Extra Trees to further lift the performance  
 
 5. Finalize Model  
 Predictions on test dataset: training the model on the entire training dataset, then predicting the test dataset
