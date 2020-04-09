@@ -19,7 +19,7 @@ We can see that the input attributes have a mixture of units.
 
 Here is an overview of the steps in this project:
 
-1. Prepare Problem
+1. Prepare Problem\n
 a) Load libraries needed for this problem
 b) Load dataset from kaggle (boston-house-prices)
 
