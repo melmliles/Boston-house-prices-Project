@@ -1,6 +1,6 @@
 # Boston-house-prices_project
 
-This is an end-to-end machine learning project that use the boston house prices dataset. Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository1):   
+This is an end-to-end machine learning project that use the boston house prices dataset. Each record in the database describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan Statistical Area (SMSA) in 1970. The attributes are deﬁned as follows (taken from the UCI Machine Learning Repository :   
 CRIM: per capita crime rate by town  
 ZN: proportion of residential land zoned for lots over 25,000 sq.ft.  
 INDUS: proportion of non-retail business acres per town  
@@ -40,6 +40,7 @@ b) Ensembles:
 Evaluating four diﬀerent ensemble machine learning algorithms :  
   - Boosting Methods: AdaBoost (AB) and Gradient Boosting (GBM)  
   - Bagging Methods: Random Forests (RF) and Extra Trees (ET)  
+  
 Tuning the Extra Trees to further lift the performance  
 
 5. Finalize Model  
