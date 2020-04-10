@@ -31,7 +31,8 @@ b) Data visualizations: drawing histograms, densities and box plots of each attr
 a) Split-out test dataset: using 80% of the dataset for modeling and hold back 20% for test.  
 b) Spot Check Algorithms: evaluating some alogorithms to get an idea on the performance of each algorithm, using the 10-fold cross-validation :  
       - Linear Algorithms: Linear Regression (LR), Lasso Regression (LASSO) and ElasticNet (EN)  
-      - Nonlinear Algorithms: Classiﬁcation and Regression Trees (CART), Support Vector Regression (SVR) and K-Nearest Neighbors (KNN)   
+      - Nonlinear Algorithms: Classiﬁcation and Regression Trees (CART), Support Vector Regression (SVR) and K-Nearest Neighbors (KNN)  
+      
       c) Compare Algorithms: Kepping the algorithm with the lowest error (KNN), based on the evaluation metric (NMSE in this case)  
 
 4. Improve Accuracy  
