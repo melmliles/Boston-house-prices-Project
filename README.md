@@ -17,7 +17,7 @@ LSTAT: % lower status of the population
 MEDV: Median value of owner-occupied homes in $1000s  
 We can see that the input attributes have a mixture of units.
 
-Here is an overview of the steps in this project:
+### Overview of the project steps 
 
 1. Prepare Problem  
 a) Load libraries needed for this problem  
